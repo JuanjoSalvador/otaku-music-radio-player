@@ -1,0 +1,25 @@
+<ion-view view-title="Radio">
+  <ion-content>
+    <div class="main" ng-init="ctrl.load()">        
+      <h1>Otaku Music Radio</h1>
+      
+      <!-- Caratula / Logo OMR -->
+      <img ng-src="{{ cover }}" id="cover"/>
+      <div id="info">
+        <!-- Tema sonando -->
+        <span id="song">{{ song }}</span>
+        <br>
+        <!-- Artista -->
+        <span id="artist">{{ artist }}</span>
+      </div>
+      
+      <div id="controls">
+        <button class="button button-large button-assertive center" 
+                ng-click="ctrl.play()">
+                {{ control }}
+        </button>
+      </div>
+    </div>  
+  </ion-content>
+</ion-view>
+

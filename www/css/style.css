@@ -1,0 +1,35 @@
+/* Empty. Add your own CSS if you like */
+
+.main {
+    position: relative;
+    padding: 15px;
+    
+}
+
+h1 {
+    color: #990000;
+    font-weight: bold;
+}
+
+#cover {
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+#info, h1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#controls, #info, h1 {
+    text-align: center;
+}
+
+#song {
+    font-size: 23pt;
+}
+
+#artist {
+    font-size: 18pt;
+}
