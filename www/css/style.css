@@ -11,10 +11,16 @@ h1 {
     font-weight: bold;
 }
 
+.scroll-content {
+    background-color: lightgrey;
+}
+
 #cover {
     width: 300px;
     display: block;
     margin: 0 auto;
+    box-shadow: 0 6px 10px 0 grey,
+                0 6px 20px 0 grey;
 }
 
 #info, h1 {
