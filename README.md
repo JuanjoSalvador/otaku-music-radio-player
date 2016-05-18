@@ -1,6 +1,8 @@
 # otaku-music-radio-player
 Reproductor de Otaku Music Radio para Android/iOS. Creado con Ionic y AngularJS.
 
+## ESTA RAMA CONTIENE UNA VERSIÓN EN DESARROLLO. No está listo para compilar.
+
 ### Desarrollo
 
 Requiere [Ionic Framework](http://ionicframework.com/getting-started/).
