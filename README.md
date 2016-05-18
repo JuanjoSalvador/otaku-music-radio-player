@@ -3,14 +3,15 @@ Reproductor de Otaku Music Radio para Android/iOS. Creado con Ionic y AngularJS.
 
 ### Desarrollo
 
-Requiere [Ionic Framework](http://ionicframework.com/getting-started/).
-
-Requiere Android SDK.
-
-[Opcional] VisualStudio 2015 (Windows)
+* [Ionic Framework](http://ionicframework.com/getting-started/).
+* Android SDK (API 15 como mínimo).
+* [Opcional] VisualStudio 2015
+* node.js
+* Bower
 
     npm install -g cordova
     npm install -g ionic
+    bower install ngCordova
 
 ### Plugins
 
