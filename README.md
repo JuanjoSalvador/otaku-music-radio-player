@@ -17,6 +17,7 @@ Requiere Android SDK.
 Depende algunos plugins de Cordova para funcionar correctamente.
 
     cordova plugin add cordova-plugin-whitelist
+    cordova plugin add cordova-plugin-media
 
 #### Depurar en Android
 
